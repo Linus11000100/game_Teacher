@@ -5,5 +5,4 @@
 <img width="1508" alt="Screenshot_69" src="https://user-images.githubusercontent.com/86466338/127164973-0e683ad9-abba-420e-9b64-dbced1408ec0.png">
 
 # game_Teacher
-My First complete Roblox Game.
-The Code is write in LUA
+
